@@ -1,0 +1,50 @@
+﻿<Window x:Class="Отдел_кадров.CandidatesForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:Отдел_кадров"
+    mc:Ignorable="d"
+    Title="Кандидаты" MinHeight="300" MinWidth="600" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="UploadButton" Grid.Row="0" Grid.Column="0" Content="Загрузить данные из базы" Margin="10" Click="UploadButton_Click"/>
+        <Button x:Name="AddButton" Grid.Row="0" Grid.Column="1" Content="Добавить" Margin="10" Click="AddButton_Click"/>
+        <Button x:Name="EditButton" Grid.Row="0" Grid.Column="2" Content="Редактировать" Margin="10" Click="EditButton_Click" IsEnabled="{Binding IsEditButtonEnabled}"/>
+        <Button x:Name="DeleteButton" Grid.Row="0" Grid.Column="3" Content="Удалить" Margin="10" Click="DeleteButton_Click" IsEnabled="{Binding IsDeleteButtonEnabled}"/>
+
+        <TextBox x:Name="SearchTextBox" Grid.Row="0" Grid.Column="4" Margin="10" TextChanged="SearchTextBox_TextChanged"/>
+
+        <DataGrid x:Name="CandidatesDataGrid" Grid.Row="1" Grid.ColumnSpan="5" Margin="10"
+ItemsSource="{Binding Candidates}" AutoGenerateColumns="False"
+SelectionMode="Single"
+CanUserAddRows="False" CanUserDeleteRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding CandidateId}" Width="Auto"/>
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding LastName}" Width="*"/>
+                <DataGridTextColumn Header="Имя" Binding="{Binding FirstName}" Width="*"/>
+                <DataGridTextColumn Header="Отчество" Binding="{Binding MiddleName}" Width="*"/>
+                <DataGridTextColumn Header="Адрес электронной почты" Binding="{Binding Email}" Width="*"/>
+                <DataGridTextColumn Header="Номер телефона" Binding="{Binding PhoneNumber}" Width="*"/>
+                <DataGridTextColumn Header="Опыт работы" Binding="{Binding Experience}" Width="*"/>
+                <DataGridTextColumn Header="Образование" Binding="{Binding Education}" Width="*"/>
+                <DataGridTextColumn Header="Рекомендации" Binding="{Binding Recommendations}" Width="*"/>
+                <DataGridTextColumn Header="Вакансия" Binding="{Binding Vacansy}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <TextBlock x:Name="ErrorTextBlock" Grid.Row="2" Grid.ColumnSpan="5" Margin="10" Foreground="Red" Visibility="Collapsed"/>
+    </Grid>
+</Window>

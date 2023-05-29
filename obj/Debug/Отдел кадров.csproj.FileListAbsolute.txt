@@ -1,0 +1,103 @@
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\bin\Debug\Отдел кадров.exe.config
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\bin\Debug\Отдел кадров.exe
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\bin\Debug\Отдел кадров.pdb
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\Отдел кадров.csproj.AssemblyReference.cache
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\Отдел кадров.csproj.SuggestedBindingRedirects.cache
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\MainWindow.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\App.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\Отдел кадров_MarkupCompile.cache
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\Отдел кадров_MarkupCompile.lref
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\MainWindow.baml
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\Отдел кадров.g.resources
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\Отдел_кадров.Properties.Resources.resources
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\Отдел кадров.csproj.GenerateResource.cache
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\Отдел кадров.csproj.CoreCompileInputs.cache
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\Отдел кадров.exe
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\Отдел кадров.pdb
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\IndexWindow.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\IndexWindow.baml
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\AddEmployeeWindow.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\EditEmployeeWindow.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\StuffForm.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\AddEmployeeWindow.baml
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\EditEmployeeWindow.baml
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\StuffForm.baml
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\JobListWindow.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\JobWindow.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\JobListWindow.baml
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\JobWindow.baml
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\addCandidate.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\CandidatesForm.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\editCandidate.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\addCandidate.baml
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\CandidatesForm.baml
+C:\Users\walkerdev\source\repos\PERFECT\Отдел кадров\obj\Debug\editCandidate.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\bin\Debug\Отдел кадров.exe.config
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\bin\Debug\Отдел кадров.exe
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\bin\Debug\Отдел кадров.pdb
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\Отдел кадров.csproj.AssemblyReference.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\Отдел кадров.csproj.SuggestedBindingRedirects.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\addCandidate.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\AddEmployeeWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\CandidatesForm.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\editCandidate.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\EditEmployeeWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\IndexWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\JobListWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\JobWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\MainWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\StuffForm.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\App.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\Отдел кадров_MarkupCompile.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\Отдел кадров_MarkupCompile.lref
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\addCandidate.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\AddEmployeeWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\CandidatesForm.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\editCandidate.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\EditEmployeeWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\IndexWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\JobListWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\JobWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\MainWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\StuffForm.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\Отдел кадров.g.resources
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\Отдел_кадров.Properties.Resources.resources
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\Отдел кадров.csproj.GenerateResource.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\Отдел кадров.csproj.CoreCompileInputs.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\Отдел кадров.exe
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Vor\Отдел кадров\obj\Debug\Отдел кадров.pdb
+C:\Users\KAB6-7\Desktop\Отдел кадров\bin\Debug\Отдел кадров.exe.config
+C:\Users\KAB6-7\Desktop\Отдел кадров\bin\Debug\Отдел кадров.exe
+C:\Users\KAB6-7\Desktop\Отдел кадров\bin\Debug\Отдел кадров.pdb
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\Отдел кадров.csproj.AssemblyReference.cache
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\Отдел кадров.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\addCandidate.g.cs
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\AddEmployeeWindow.g.cs
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\CandidatesForm.g.cs
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\editCandidate.g.cs
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\EditEmployeeWindow.g.cs
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\IndexWindow.g.cs
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\JobListWindow.g.cs
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\JobWindow.g.cs
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\MainWindow.g.cs
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\StuffForm.g.cs
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\App.g.cs
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\Отдел кадров_MarkupCompile.cache
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\Отдел кадров_MarkupCompile.lref
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\addCandidate.baml
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\AddEmployeeWindow.baml
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\CandidatesForm.baml
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\editCandidate.baml
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\EditEmployeeWindow.baml
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\IndexWindow.baml
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\JobListWindow.baml
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\JobWindow.baml
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\MainWindow.baml
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\StuffForm.baml
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\Отдел кадров.g.resources
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\Отдел_кадров.Properties.Resources.resources
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\Отдел кадров.csproj.GenerateResource.cache
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\Отдел кадров.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\Отдел кадров.exe
+C:\Users\KAB6-7\Desktop\Отдел кадров\obj\Debug\Отдел кадров.pdb

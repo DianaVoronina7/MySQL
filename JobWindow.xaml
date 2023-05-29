@@ -1,0 +1,30 @@
+﻿<Window x:Class="Отдел_кадров.JobWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Отдел_кадров"
+        mc:Ignorable="d"
+        Title="Добавить/Редактировать вакансию" Height="300" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Margin="5" Content="Название:"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="5" Name="Titler" Text="{Binding Job.Title, UpdateSourceTrigger=PropertyChanged}"/>
+        <Label Grid.Row="1" Grid.Column="0" Margin="5" Content="Описание:"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Margin="5" Name="Desc" Text="{Binding Job.Description, UpdateSourceTrigger=PropertyChanged}"/>
+        <Label Grid.Row="2" Grid.Column="0" Margin="5" Content="Требования:"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Margin="5" Name="Req"  Text="{Binding Job.Requirements, UpdateSourceTrigger=PropertyChanged}" Height="120"/>
+        <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
+            <Button x:Name="byButton" Content="Добавить" Margin="5" IsDefault="True" Click="byButton_Click_1"/>
+        </StackPanel>
+    </Grid>
+</Window>
